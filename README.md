@@ -9,12 +9,13 @@ If you want to change camera configuration (exposure, emitter on/off and depth q
 2. Unzip download file 
 3. Move to rs_directshow-master\x64\Release folder on Windows explorer. 
 4. You can find install.bat at the folder. Please run it by right clicking and choosing "Run as administrator".
-5. If "DLLRegisterServer in rs_directshow.dll succeeded" dialog is appered, install is finished successful.
+5. If "DLLRegisterServer in rs_directshow.dll succeeded" dialog is appered, install is successful.
+6. To check RealSense with this driver, please try AmCap.exe (Simple camera capture app example of DirectSHow) in Release folder.
 
 ### Binary uninstall
 1. Move to rs_directshow-master\x64\Release folder on Windows explorer. 
 2. You can find uninstall.bat at the folder. Please run it by right clicking and choosing "Run as administrator".
-3. If "DLLUNRegisterServer in rs_directshow.dll succeeded" dialog is appered, uninstall is finished successful.
+3. If "DLLUNRegisterServer in rs_directshow.dll succeeded" dialog is appered, uninstall is successful.
 
 ### Source build
 Coming soon...
